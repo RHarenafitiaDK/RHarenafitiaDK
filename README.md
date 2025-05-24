@@ -19,16 +19,14 @@ Rigoureux, créatif et orienté impact, je m’engage à concevoir des **solutio
 
 ## 🛠️ Stack & Outils
 
-### Développement
-- **Frontend** : React.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend** : Laravel (PHP), CodeIgniter
-- **Bases de données** : PostgreSQL, MySQL
+Voici les informations sous forme de tableau à trois colonnes :
 
-### Design & Prototypage
-- Figma, Adobe XD, Illustrator, Photoshop
-
-### Gestion de projet
-- Trello, Git, Scrum, SWOT
+| Développement | Design & Prototypage | Gestion de projet |
+|---------------|-----------------------|-------------------|
+| Frontend : React.js, TypeScript, JavaScript, Tailwind CSS | Figma | Trello |
+| Backend : Laravel (PHP), CodeIgniter | Adobe XD | Git |
+| Bases de données : PostgreSQL, MySQL | Illustrator | Scrum |
+|  | Photoshop | SWOT |
 
 ---
 
